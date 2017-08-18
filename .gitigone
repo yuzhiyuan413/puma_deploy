@@ -1,0 +1,28 @@
+aliyun_sdk.log
+/admin/public/assets
+
+# Ignore bundler config.
+/.bundle
+
+# Ignore all logfiles and tempfiles.
+/log/*
+/tmp/*
+!/log/.keep
+!/tmp/.keep
+
+# Ignore Byebug command history file.
+.byebug_history
+# Added by webpack-rails
+/node_modules
+.DS_Store
+node_modules/
+dist/
+npm-debug.log
+test/unit/coverage
+.vscode
+env.sh
+.env
+.env.*
+public/uploads
+.ruby-version
+.ruby-gemset
